@@ -5,7 +5,9 @@ b=48;
 c=a+b;
 d="Rusty";
 e="Nails";
-f=false
+f=false;
+g= complex(4, 9)
+g1 = 5;
 print(a);
 print(c);
 print(a+b);
@@ -27,3 +29,7 @@ print(a+e);
 print("The type of a is",type(a));
 print("The type of f is",type(f));
 print("The type of d is",type(d));
+
+
+#complex number
+print(g + g1);
